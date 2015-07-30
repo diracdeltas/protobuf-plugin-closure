@@ -1,6 +1,7 @@
-js/*
 protoc-gen-ccjs
 protoc-gen-js
 out/*
-
-
+js/int64_encoding.pb.cc
+js/int64_encoding.pb.h
+js/javascript_package.pb.cc
+js/javascript_package.pb.h
